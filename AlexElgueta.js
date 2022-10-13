@@ -212,7 +212,6 @@ const paddockManagers = [
     return sortedByPaddocksManagers.indexOf(newPaddockManager.name) + 1;
   }
   
-  
   // No modificar, eliminar o alterar cualquier línea de código o comentario de acá para abajo
   // Cualquier cambio hará que su prueba quede invalidada automáticamente
   console.log('Pregunta 0');
